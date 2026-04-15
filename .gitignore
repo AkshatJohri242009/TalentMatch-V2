@@ -1,0 +1,15 @@
+.deps/
+.pytest_cache/
+.tmenv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+backend/.env
+frontend/node_modules/
+frontend/dist/
+data/learning_feedback.json
+data/talentmatch.db
+data/*.db-journal
+data/vector_index.json
