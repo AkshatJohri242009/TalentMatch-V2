@@ -1,0 +1,49 @@
+[
+  {
+    "first_name": "Ava",
+    "last_name": "Candidate",
+    "email": "ava@example.com",
+    "phone": "",
+    "location": "",
+    "current_title": "Backend Developer",
+    "years_experience": 5,
+    "education": {
+      "degree": "B.S. Computer Science",
+      "university": "",
+      "graduation_year": null
+    },
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Docker"
+    ],
+    "source": "manual",
+    "open_to_work": true,
+    "summary": "Backend Developer with Python FastAPI Docker experience.",
+    "id": "CAND001",
+    "last_updated": "2026-04-15T16:56:37.911586"
+  },
+  {
+    "first_name": "Liam",
+    "last_name": "Candidate",
+    "email": "liam@example.com",
+    "phone": "",
+    "location": "",
+    "current_title": "Frontend Developer",
+    "years_experience": 2,
+    "education": {
+      "degree": "B.S. Computer Science",
+      "university": "",
+      "graduation_year": null
+    },
+    "skills": [
+      "React",
+      "CSS"
+    ],
+    "source": "manual",
+    "open_to_work": true,
+    "summary": "Frontend Developer with React CSS experience.",
+    "id": "CAND002",
+    "last_updated": "2026-04-15T16:56:37.931919"
+  }
+]
